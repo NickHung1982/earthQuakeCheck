@@ -1,0 +1,341 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1548009961000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2014-01-01&endtime=2014-01-02",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.7.0",
+        "count": 319
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.22,
+                "place": "21km NNW of Amboy, Washington",
+                "time": 1388536764680,
+                "updated": 1469215315430,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw60664276",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uw60664276&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1,
+                "net": "uw",
+                "code": "60664276",
+                "ids": ",uw60664276,",
+                "sources": ",uw,",
+                "types": ",cap,general-link,geoserve,nearby-cities,origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.08565,
+                "rms": 0.1,
+                "gap": 182,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.2 - 21km NNW of Amboy, Washington"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5188333,
+                    46.0926667,
+                    13.97
+                ]
+            },
+            "id": "uw60664276"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.07,
+                "place": "4km WNW of Cobb, California",
+                "time": 1388536602470,
+                "updated": 1486062284045,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc72133846",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc72133846&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 18,
+                "net": "nc",
+                "code": "72133846",
+                "ids": ",nc72133846,",
+                "sources": ",nc,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,",
+                "nst": 14,
+                "dmin": 0.006306,
+                "rms": 0.05,
+                "gap": 90,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.1 - 4km WNW of Cobb, California"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7776642,
+                    38.8320007,
+                    0.187
+                ]
+            },
+            "id": "nc72133846"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.1,
+                "place": "20km SW of Leilani Estates, Hawaii",
+                "time": 1388536590200,
+                "updated": 1388705409143,
+                "tz": -600,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv60614021",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv60614021&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "REVIEWED",
+                "tsunami": 0,
+                "sig": 68,
+                "net": "hv",
+                "code": "60614021",
+                "ids": ",hv60614021,",
+                "sources": ",hv,",
+                "types": ",cap,general-link,general-link,geoserve,nearby-cities,origin,",
+                "nst": null,
+                "dmin": 0.08983153,
+                "rms": 0.14,
+                "gap": 208.8,
+                "magType": "Ml",
+                "type": "earthquake",
+                "title": "M 2.1 - 20km SW of Leilani Estates, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.0353,
+                    19.3247,
+                    1.9
+                ]
+            },
+            "id": "hv60614021"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2,
+                "place": "46km SSW of Redoubt Volcano, Alaska",
+                "time": 1388535883000,
+                "updated": 1389117219525,
+                "tz": -540,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak10992830",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ak10992830&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 62,
+                "net": "ak",
+                "code": "10992830",
+                "ids": ",ak10992830,",
+                "sources": ",ak,",
+                "types": ",general-link,general-link,geoserve,nearby-cities,origin,tectonic-summary,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.77,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.0 - 46km SSW of Redoubt Volcano, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -153.0184,
+                    60.0872,
+                    105.8
+                ]
+            },
+            "id": "ak10992830"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.57,
+                "place": "9km WNW of The Geysers, California",
+                "time": 1388535010970,
+                "updated": 1486062277926,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc72133841",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc72133841&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 5,
+                "net": "nc",
+                "code": "72133841",
+                "ids": ",nc72133841,",
+                "sources": ",nc,",
+                "types": ",geoserve,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 30,
+                "dmin": 0.007207,
+                "rms": 0.04,
+                "gap": 65,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 0.6 - 9km WNW of The Geysers, California"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8435,
+                    38.8216667,
+                    2.14
+                ]
+            },
+            "id": "nc72133841"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.2,
+                "place": "1km NW of Sweet Home, Oregon",
+                "time": 1388534755060,
+                "updated": 1469215315190,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw60664271",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uw60664271&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 74,
+                "net": "uw",
+                "code": "60664271",
+                "ids": ",uw60664271,",
+                "sources": ",uw,",
+                "types": ",cap,general-link,geoserve,nearby-cities,origin,phase-data,",
+                "nst": 4,
+                "dmin": 0.1157,
+                "rms": 0.07,
+                "gap": 179,
+                "magType": "md",
+                "type": "explosion",
+                "title": "M 2.2 Explosion - 1km NW of Sweet Home, Oregon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7498333,
+                    44.408,
+                    -0.348
+                ]
+            },
+            "id": "uw60664271"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "163km W of Neiafu, Tonga",
+                "time": 1388534728830,
+                "updated": 1394151953000,
+                "tz": -720,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5j",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000lv5j&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "c000lv5j",
+                "ids": ",usc000lv5j,",
+                "sources": ",us,",
+                "types": ",cap,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+                "nst": null,
+                "dmin": 5.337,
+                "rms": 0.6,
+                "gap": 41,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 163km W of Neiafu, Tonga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -175.5282,
+                    -18.4965,
+                    217.9
+                ]
+            },
+            "id": "usc000lv5j"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.1,
+                "place": "76km NNW of Davila, Philippines",
+                "time": 1388534476610,
+                "updated": 1394151953000,
+                "tz": 480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000lv5e",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usc000lv5e&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 400,
+                "net": "us",
+                "code": "c000lv5e",
+                "ids": ",usc000lv5e,",
+                "sources": ",us,",
+                "types": ",cap,general-link,geoserve,nearby-cities,origin,phase-data,tectonic-summary,",
+                "nst": null,
+                "dmin": 3.794,
+                "rms": 0.85,
+                "gap": 29,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.1 - 76km NNW of Davila, Philippines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2389,
+                    19.0868,
+                    10.07
+                ]
+            },
+            "id": "usc000lv5e"
+        }
+    ],
+    "bbox": [
+        -179.688,
+        -56.1218,
+        -2.884,
+        167.8106,
+        64.8073,
+        582.05
+    ]
+}
